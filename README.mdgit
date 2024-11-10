@@ -1,0 +1,1 @@
+"# XUYQWD"  initgit add .git commit -m "first commit"git branch -M maingit remote add origin https://github.com/spowll/XUYQWD.gitgit push -u origin main
